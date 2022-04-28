@@ -176,7 +176,7 @@ span {
         background-image: url(../images/image-header-desktop.jpg);
         background-color: var(--clr-accent);
         background-blend-mode: soft-light;
-        filter: brightness(0.7);
+        filter: brightness(0.6);
         background-size: cover;
 
     }
