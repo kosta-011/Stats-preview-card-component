@@ -202,12 +202,18 @@ span {
         margin-bottom: 20px;
         margin-left: 25px;
         line-height: 1.8rem;
+        font-size: 2rem;
+    }
+    h1 {
+        font-size: 2rem;
+        line-height: 1.2;
     }
     p {
         text-align: left;
         margin-bottom: 50px;
         margin-left: 25px;
         line-height: 1.5rem;
+        font-size: 1.1rem;
     }
 
 }
